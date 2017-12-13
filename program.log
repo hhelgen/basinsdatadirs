@@ -1,0 +1,1206 @@
+INFO 20171206 185452:
+Start of createdirsfromfiles
+INFO 20171206 185452:main: 
+INFO 20171206 185452:startup:
+DEBUG 20171206 185452:new   |C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\NewBASINSCore|
+DEBUG 20171206 185452:old   |C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\OldBASINSCore|
+DEBUG 20171206 185452:target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata|
+DEBUG 20171206 185452:newfilelist
+DEBUG 20171206 185452:newfile|01010006_census.exe| newdir|01010006|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\01010006|
+DEBUG 20171206 185452:newfile|01010006_core31.exe| newdir|01010006|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\01010006|
+DEBUG 20171206 185452:newfile|01010006_DEMGgtif.exe| newdir|01010006|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\01010006|
+DEBUG 20171206 185452:newfile|01010006_giras.exe| newdir|01010006|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\01010006|
+DEBUG 20171206 185452:newfile|01010006_lstoret.exe| newdir|01010006|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\01010006|
+DEBUG 20171206 185452:newfile|01010006_nhd.exe| newdir|01010006|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\01010006|
+DEBUG 20171206 185452:newfile|01010007_census.exe| newdir|01010007|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\01010007|
+DEBUG 20171206 185452:newfile|01010007_core31.exe| newdir|01010007|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\01010007|
+DEBUG 20171206 185452:newfile|01010007_DEMGgtif.exe| newdir|01010007|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\01010007|
+DEBUG 20171206 185452:newfile|01010007_giras.exe| newdir|01010007|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\01010007|
+DEBUG 20171206 185453:newfile|01010007_lstoret.exe| newdir|01010007|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\01010007|
+DEBUG 20171206 185453:newfile|01010007_nhd.exe| newdir|01010007|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\01010007|
+DEBUG 20171206 185453:newfile|01010008_census.exe| newdir|01010008|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\01010008|
+DEBUG 20171206 185453:newfile|01010008_core31.exe| newdir|01010008|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\01010008|
+DEBUG 20171206 185453:newfile|01010008_DEMGgtif.exe| newdir|01010008|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\01010008|
+DEBUG 20171206 185453:newfile|01010008_giras.exe| newdir|01010008|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\01010008|
+DEBUG 20171206 185453:newfile|01010008_lstoret.exe| newdir|01010008|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\01010008|
+DEBUG 20171206 185453:newfile|01010008_nhd.exe| newdir|01010008|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\01010008|
+DEBUG 20171206 185453:newfile|01010009_census.exe| newdir|01010009|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\01010009|
+DEBUG 20171206 185453:newfile|01010009_core31.exe| newdir|01010009|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\01010009|
+DEBUG 20171206 185453:newfile|01010009_DEMGgtif.exe| newdir|01010009|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\01010009|
+DEBUG 20171206 185453:newfile|01010009_giras.exe| newdir|01010009|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\01010009|
+DEBUG 20171206 185453:newfile|01010009_lstoret.exe| newdir|01010009|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\01010009|
+DEBUG 20171206 185453:newfile|01010009_nhd.exe| newdir|01010009|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\01010009|
+DEBUG 20171206 185453:newfile|01010010_census.exe| newdir|01010010|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\01010010|
+DEBUG 20171206 185453:newfile|01010010_core31.exe| newdir|01010010|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\01010010|
+DEBUG 20171206 185453:newfile|01010010_DEMGgtif.exe| newdir|01010010|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\01010010|
+DEBUG 20171206 185453:newfile|01010010_giras.exe| newdir|01010010|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\01010010|
+DEBUG 20171206 185453:newfile|01010010_lstoret.exe| newdir|01010010|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\01010010|
+DEBUG 20171206 185453:newfile|01010010_nhd.exe| newdir|01010010|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\01010010|
+DEBUG 20171206 185453:newfile|01010011_census.exe| newdir|01010011|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\01010011|
+DEBUG 20171206 185453:newfile|01010011_core31.exe| newdir|01010011|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\01010011|
+DEBUG 20171206 185453:newfile|01010011_DEMGgtif.exe| newdir|01010011|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\01010011|
+DEBUG 20171206 185453:newfile|01010011_giras.exe| newdir|01010011|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\01010011|
+DEBUG 20171206 185453:newfile|01010011_nhd.exe| newdir|01010011|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\01010011|
+DEBUG 20171206 185453:newfile|01050004_census.exe| newdir|01050004|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\01050004|
+DEBUG 20171206 185453:newfile|01050004_core31.exe| newdir|01050004|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\01050004|
+DEBUG 20171206 185453:newfile|01050004_DEMGgtif.exe| newdir|01050004|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\01050004|
+DEBUG 20171206 185453:newfile|01050004_giras.exe| newdir|01050004|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\01050004|
+DEBUG 20171206 185453:newfile|01050004_lstoret.exe| newdir|01050004|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\01050004|
+DEBUG 20171206 185453:newfile|01050004_nhd.exe| newdir|01050004|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\01050004|
+DEBUG 20171206 185453:newfile|01070006_census.exe| newdir|01070006|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\01070006|
+DEBUG 20171206 185453:newfile|01070006_core31.exe| newdir|01070006|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\01070006|
+DEBUG 20171206 185454:newfile|01070006_DEMGgtif.exe| newdir|01070006|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\01070006|
+DEBUG 20171206 185454:newfile|01070006_giras.exe| newdir|01070006|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\01070006|
+DEBUG 20171206 185454:newfile|01070006_lstoret.exe| newdir|01070006|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\01070006|
+DEBUG 20171206 185454:newfile|01070006_nhd.exe| newdir|01070006|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\01070006|
+DEBUG 20171206 185454:newfile|02030203_census.exe| newdir|02030203|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\02030203|
+DEBUG 20171206 185454:newfile|02030203_core31.exe| newdir|02030203|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\02030203|
+DEBUG 20171206 185454:newfile|02030203_DEMGgtif.exe| newdir|02030203|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\02030203|
+DEBUG 20171206 185454:newfile|02030203_giras.exe| newdir|02030203|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\02030203|
+DEBUG 20171206 185454:newfile|02030203_lstoret.exe| newdir|02030203|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\02030203|
+DEBUG 20171206 185454:newfile|02030203_nhd.exe| newdir|02030203|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\02030203|
+DEBUG 20171206 185454:newfile|02040303_census.exe| newdir|02040303|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\02040303|
+DEBUG 20171206 185454:newfile|02040303_core31.exe| newdir|02040303|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\02040303|
+DEBUG 20171206 185454:newfile|02040303_DEMGgtif.exe| newdir|02040303|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\02040303|
+DEBUG 20171206 185454:newfile|02040303_giras.exe| newdir|02040303|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\02040303|
+DEBUG 20171206 185454:newfile|02040303_lstoret.exe| newdir|02040303|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\02040303|
+DEBUG 20171206 185454:newfile|02040303_nhd.exe| newdir|02040303|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\02040303|
+DEBUG 20171206 185454:newfile|02040304_census.exe| newdir|02040304|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\02040304|
+DEBUG 20171206 185454:newfile|02040304_core31.exe| newdir|02040304|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\02040304|
+DEBUG 20171206 185454:newfile|02040304_DEMGgtif.exe| newdir|02040304|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\02040304|
+DEBUG 20171206 185454:newfile|02040304_giras.exe| newdir|02040304|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\02040304|
+DEBUG 20171206 185454:newfile|02040304_lstoret.exe| newdir|02040304|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\02040304|
+DEBUG 20171206 185454:newfile|02040304_nhd.exe| newdir|02040304|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\02040304|
+DEBUG 20171206 185454:newfile|02080111_census.exe| newdir|02080111|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\02080111|
+DEBUG 20171206 185454:newfile|02080111_core31.exe| newdir|02080111|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\02080111|
+DEBUG 20171206 185455:newfile|02080111_DEMGgtif.exe| newdir|02080111|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\02080111|
+DEBUG 20171206 185455:newfile|02080111_giras.exe| newdir|02080111|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\02080111|
+DEBUG 20171206 185455:newfile|02080111_lstoret.exe| newdir|02080111|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\02080111|
+DEBUG 20171206 185455:newfile|02080111_nhd.exe| newdir|02080111|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\02080111|
+DEBUG 20171206 185455:newfile|03020301_census.exe| newdir|03020301|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\03020301|
+DEBUG 20171206 185455:newfile|03020301_core31.exe| newdir|03020301|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\03020301|
+DEBUG 20171206 185455:newfile|03020301_DEMGgtif.exe| newdir|03020301|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\03020301|
+DEBUG 20171206 185455:newfile|03020301_giras.exe| newdir|03020301|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\03020301|
+DEBUG 20171206 185455:newfile|03020301_lstoret.exe| newdir|03020301|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\03020301|
+DEBUG 20171206 185455:newfile|03020301_nhd.exe| newdir|03020301|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\03020301|
+DEBUG 20171206 185455:newfile|03020302_census.exe| newdir|03020302|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\03020302|
+DEBUG 20171206 185455:newfile|03020302_core31.exe| newdir|03020302|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\03020302|
+DEBUG 20171206 185455:newfile|03020302_DEMGgtif.exe| newdir|03020302|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\03020302|
+DEBUG 20171206 185455:newfile|03020302_giras.exe| newdir|03020302|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\03020302|
+DEBUG 20171206 185455:newfile|03020302_lstoret.exe| newdir|03020302|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\03020302|
+DEBUG 20171206 185455:newfile|03020302_nhd.exe| newdir|03020302|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\03020302|
+DEBUG 20171206 185455:newfile|03040208_census.exe| newdir|03040208|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\03040208|
+DEBUG 20171206 185455:newfile|03040208_core31.exe| newdir|03040208|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\03040208|
+DEBUG 20171206 185455:newfile|03040208_DEMGgtif.exe| newdir|03040208|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\03040208|
+DEBUG 20171206 185455:newfile|03040208_giras.exe| newdir|03040208|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\03040208|
+DEBUG 20171206 185455:newfile|03040208_lstoret.exe| newdir|03040208|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\03040208|
+DEBUG 20171206 185455:newfile|03040208_nhd.exe| newdir|03040208|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\03040208|
+DEBUG 20171206 185455:newfile|03050209_census.exe| newdir|03050209|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\03050209|
+DEBUG 20171206 185455:newfile|03050209_core31.exe| newdir|03050209|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\03050209|
+DEBUG 20171206 185455:newfile|03050209_DEMGgtif.exe| newdir|03050209|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\03050209|
+DEBUG 20171206 185455:newfile|03050209_giras.exe| newdir|03050209|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\03050209|
+DEBUG 20171206 185456:newfile|03050209_lstoret.exe| newdir|03050209|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\03050209|
+DEBUG 20171206 185456:newfile|03050209_nhd.exe| newdir|03050209|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\03050209|
+DEBUG 20171206 185456:newfile|03050210_census.exe| newdir|03050210|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\03050210|
+DEBUG 20171206 185456:newfile|03050210_core31.exe| newdir|03050210|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\03050210|
+DEBUG 20171206 185456:newfile|03050210_DEMGgtif.exe| newdir|03050210|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\03050210|
+DEBUG 20171206 185456:newfile|03050210_giras.exe| newdir|03050210|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\03050210|
+DEBUG 20171206 185456:newfile|03050210_lstoret.exe| newdir|03050210|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\03050210|
+DEBUG 20171206 185456:newfile|03050210_nhd.exe| newdir|03050210|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\03050210|
+DEBUG 20171206 185456:newfile|03060110_census.exe| newdir|03060110|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\03060110|
+DEBUG 20171206 185456:newfile|03060110_core31.exe| newdir|03060110|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\03060110|
+DEBUG 20171206 185456:newfile|03060110_DEMGgtif.exe| newdir|03060110|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\03060110|
+DEBUG 20171206 185456:newfile|03060110_giras.exe| newdir|03060110|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\03060110|
+DEBUG 20171206 185456:newfile|03060110_lstoret.exe| newdir|03060110|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\03060110|
+DEBUG 20171206 185456:newfile|03060110_nhd.exe| newdir|03060110|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\03060110|
+DEBUG 20171206 185456:newfile|03090206_census.exe| newdir|03090206|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\03090206|
+DEBUG 20171206 185456:newfile|03090206_core31.exe| newdir|03090206|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\03090206|
+DEBUG 20171206 185456:newfile|03090206_DEMGgtif.exe| newdir|03090206|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\03090206|
+DEBUG 20171206 185456:newfile|03090206_giras.exe| newdir|03090206|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\03090206|
+DEBUG 20171206 185457:newfile|03090206_lstoret.exe| newdir|03090206|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\03090206|
+DEBUG 20171206 185457:newfile|03090206_nhd.exe| newdir|03090206|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\03090206|
+DEBUG 20171206 185457:newfile|04150308_census.exe| newdir|04150308|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\04150308|
+DEBUG 20171206 185457:newfile|04150308_core31.exe| newdir|04150308|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\04150308|
+DEBUG 20171206 185457:newfile|04150308_DEMGgtif.exe| newdir|04150308|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\04150308|
+DEBUG 20171206 185457:newfile|04150308_giras.exe| newdir|04150308|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\04150308|
+DEBUG 20171206 185457:newfile|04150308_lstoret.exe| newdir|04150308|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\04150308|
+DEBUG 20171206 185457:newfile|04150308_nhd.exe| newdir|04150308|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\04150308|
+DEBUG 20171206 185457:newfile|04150309_census.exe| newdir|04150309|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\04150309|
+DEBUG 20171206 185457:newfile|04150309_core31.exe| newdir|04150309|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\04150309|
+DEBUG 20171206 185457:newfile|04150309_DEMGgtif.exe| newdir|04150309|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\04150309|
+DEBUG 20171206 185457:newfile|04150309_giras.exe| newdir|04150309|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\04150309|
+DEBUG 20171206 185457:newfile|04150309_lstoret.exe| newdir|04150309|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\04150309|
+DEBUG 20171206 185457:newfile|04150309_nhd.exe| newdir|04150309|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\04150309|
+DEBUG 20171206 185457:newfile|04150310_census.exe| newdir|04150310|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\04150310|
+DEBUG 20171206 185457:newfile|04150310_core31.exe| newdir|04150310|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\04150310|
+DEBUG 20171206 185457:newfile|04150310_DEMGgtif.exe| newdir|04150310|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\04150310|
+DEBUG 20171206 185457:newfile|04150310_giras.exe| newdir|04150310|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\04150310|
+DEBUG 20171206 185457:newfile|04150310_lstoret.exe| newdir|04150310|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\04150310|
+DEBUG 20171206 185457:newfile|04150310_nhd.exe| newdir|04150310|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\04150310|
+DEBUG 20171206 185457:newfile|04150401_census.exe| newdir|04150401|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\04150401|
+DEBUG 20171206 185457:newfile|04150401_core31.exe| newdir|04150401|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\04150401|
+DEBUG 20171206 185457:newfile|04150401_DEMGgtif.exe| newdir|04150401|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\04150401|
+DEBUG 20171206 185457:newfile|04150401_giras.exe| newdir|04150401|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\04150401|
+DEBUG 20171206 185457:newfile|04150401_lstoret.exe| newdir|04150401|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\04150401|
+DEBUG 20171206 185457:newfile|04150401_nhd.exe| newdir|04150401|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\04150401|
+DEBUG 20171206 185457:newfile|04150402_census.exe| newdir|04150402|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\04150402|
+DEBUG 20171206 185457:newfile|04150402_core31.exe| newdir|04150402|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\04150402|
+DEBUG 20171206 185457:newfile|04150402_DEMGgtif.exe| newdir|04150402|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\04150402|
+DEBUG 20171206 185457:newfile|04150402_giras.exe| newdir|04150402|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\04150402|
+DEBUG 20171206 185457:newfile|04150402_lstoret.exe| newdir|04150402|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\04150402|
+DEBUG 20171206 185457:newfile|04150402_nhd.exe| newdir|04150402|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\04150402|
+DEBUG 20171206 185457:newfile|04150403_census.exe| newdir|04150403|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\04150403|
+DEBUG 20171206 185457:newfile|04150403_core31.exe| newdir|04150403|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\04150403|
+DEBUG 20171206 185457:newfile|04150403_DEMGgtif.exe| newdir|04150403|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\04150403|
+DEBUG 20171206 185457:newfile|04150403_giras.exe| newdir|04150403|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\04150403|
+DEBUG 20171206 185457:newfile|04150403_lstoret.exe| newdir|04150403|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\04150403|
+DEBUG 20171206 185457:newfile|04150403_nhd.exe| newdir|04150403|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\04150403|
+DEBUG 20171206 185457:newfile|04150404_census.exe| newdir|04150404|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\04150404|
+DEBUG 20171206 185457:newfile|04150404_core31.exe| newdir|04150404|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\04150404|
+DEBUG 20171206 185457:newfile|04150404_DEMGgtif.exe| newdir|04150404|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\04150404|
+DEBUG 20171206 185457:newfile|04150404_giras.exe| newdir|04150404|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\04150404|
+DEBUG 20171206 185457:newfile|04150404_lstoret.exe| newdir|04150404|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\04150404|
+DEBUG 20171206 185457:newfile|04150404_nhd.exe| newdir|04150404|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\04150404|
+DEBUG 20171206 185457:newfile|04150405_census.exe| newdir|04150405|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\04150405|
+DEBUG 20171206 185457:newfile|04150405_core31.exe| newdir|04150405|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\04150405|
+DEBUG 20171206 185457:newfile|04150405_DEMGgtif.exe| newdir|04150405|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\04150405|
+DEBUG 20171206 185457:newfile|04150405_giras.exe| newdir|04150405|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\04150405|
+DEBUG 20171206 185457:newfile|04150405_lstoret.exe| newdir|04150405|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\04150405|
+DEBUG 20171206 185457:newfile|04150405_nhd.exe| newdir|04150405|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\04150405|
+DEBUG 20171206 185457:newfile|04150406_census.exe| newdir|04150406|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\04150406|
+DEBUG 20171206 185458:newfile|04150406_core31.exe| newdir|04150406|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\04150406|
+DEBUG 20171206 185458:newfile|04150406_DEMGgtif.exe| newdir|04150406|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\04150406|
+DEBUG 20171206 185458:newfile|04150406_giras.exe| newdir|04150406|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\04150406|
+DEBUG 20171206 185458:newfile|04150406_lstoret.exe| newdir|04150406|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\04150406|
+DEBUG 20171206 185458:newfile|04150406_nhd.exe| newdir|04150406|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\04150406|
+DEBUG 20171206 185458:newfile|04150407_census.exe| newdir|04150407|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\04150407|
+DEBUG 20171206 185458:newfile|04150407_core31.exe| newdir|04150407|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\04150407|
+DEBUG 20171206 185458:newfile|04150407_DEMGgtif.exe| newdir|04150407|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\04150407|
+DEBUG 20171206 185458:newfile|04150407_giras.exe| newdir|04150407|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\04150407|
+DEBUG 20171206 185458:newfile|04150407_lstoret.exe| newdir|04150407|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\04150407|
+DEBUG 20171206 185458:newfile|04150407_nhd.exe| newdir|04150407|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\04150407|
+DEBUG 20171206 185458:newfile|04150408_census.exe| newdir|04150408|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\04150408|
+DEBUG 20171206 185458:newfile|04150408_core31.exe| newdir|04150408|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\04150408|
+DEBUG 20171206 185458:newfile|04150408_DEMGgtif.exe| newdir|04150408|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\04150408|
+DEBUG 20171206 185458:newfile|04150408_giras.exe| newdir|04150408|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\04150408|
+DEBUG 20171206 185458:newfile|04150408_lstoret.exe| newdir|04150408|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\04150408|
+DEBUG 20171206 185458:newfile|04150408_nhd.exe| newdir|04150408|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\04150408|
+DEBUG 20171206 185458:newfile|04150409_census.exe| newdir|04150409|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\04150409|
+DEBUG 20171206 185458:newfile|04150409_core31.exe| newdir|04150409|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\04150409|
+DEBUG 20171206 185458:newfile|04150409_DEMGgtif.exe| newdir|04150409|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\04150409|
+DEBUG 20171206 185458:newfile|04150409_giras.exe| newdir|04150409|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\04150409|
+DEBUG 20171206 185458:newfile|04150409_lstoret.exe| newdir|04150409|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\04150409|
+DEBUG 20171206 185458:newfile|04150500_census.exe| newdir|04150500|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\04150500|
+DEBUG 20171206 185458:newfile|04150500_core31.exe| newdir|04150500|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\04150500|
+DEBUG 20171206 185458:newfile|04150500_DEMGgtif.exe| newdir|04150500|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\04150500|
+DEBUG 20171206 185458:newfile|04150500_giras.exe| newdir|04150500|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\04150500|
+DEBUG 20171206 185458:newfile|04150500_lstoret.exe| newdir|04150500|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\04150500|
+DEBUG 20171206 185458:newfile|04150500_nhd.exe| newdir|04150500|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\04150500|
+DEBUG 20171206 185458:newfile|04150600_census.exe| newdir|04150600|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\04150600|
+DEBUG 20171206 185458:newfile|04150600_core31.exe| newdir|04150600|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\04150600|
+DEBUG 20171206 185458:newfile|04150600_DEMGgtif.exe| newdir|04150600|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\04150600|
+DEBUG 20171206 185458:newfile|04150600_giras.exe| newdir|04150600|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\04150600|
+DEBUG 20171206 185458:newfile|04150600_lstoret.exe| newdir|04150600|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\04150600|
+DEBUG 20171206 185458:newfile|09010006_census.exe| newdir|09010006|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\09010006|
+DEBUG 20171206 185458:newfile|09010006_core31.exe| newdir|09010006|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\09010006|
+DEBUG 20171206 185458:newfile|09010006_DEMGgtif.exe| newdir|09010006|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\09010006|
+DEBUG 20171206 185458:newfile|09010006_giras.exe| newdir|09010006|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\09010006|
+DEBUG 20171206 185458:newfile|09010006_nhd.exe| newdir|09010006|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\09010006|
+DEBUG 20171206 185458:newfile|09010007_census.exe| newdir|09010007|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\09010007|
+DEBUG 20171206 185458:newfile|09010007_core31.exe| newdir|09010007|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\09010007|
+DEBUG 20171206 185459:newfile|09010007_DEMGgtif.exe| newdir|09010007|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\09010007|
+DEBUG 20171206 185459:newfile|09010007_giras.exe| newdir|09010007|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\09010007|
+DEBUG 20171206 185459:newfile|09010007_nhd.exe| newdir|09010007|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\09010007|
+DEBUG 20171206 185459:newfile|09010008_census.exe| newdir|09010008|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\09010008|
+DEBUG 20171206 185459:newfile|09010008_core31.exe| newdir|09010008|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\09010008|
+DEBUG 20171206 185459:newfile|09010008_DEMGgtif.exe| newdir|09010008|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\09010008|
+DEBUG 20171206 185459:newfile|09010008_giras.exe| newdir|09010008|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\09010008|
+DEBUG 20171206 185459:newfile|09010008_lstoret.exe| newdir|09010008|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\09010008|
+DEBUG 20171206 185459:newfile|09010008_nhd.exe| newdir|09010008|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\09010008|
+DEBUG 20171206 185459:newfile|09020315_census.exe| newdir|09020315|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\09020315|
+DEBUG 20171206 185459:newfile|09020315_core31.exe| newdir|09020315|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\09020315|
+DEBUG 20171206 185459:newfile|09020315_DEMGgtif.exe| newdir|09020315|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\09020315|
+DEBUG 20171206 185459:newfile|09020315_giras.exe| newdir|09020315|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\09020315|
+DEBUG 20171206 185459:newfile|09020315_lstoret.exe| newdir|09020315|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\09020315|
+DEBUG 20171206 185459:newfile|09020315_nhd.exe| newdir|09020315|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\09020315|
+DEBUG 20171206 185459:newfile|09020316_census.exe| newdir|09020316|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\09020316|
+DEBUG 20171206 185459:newfile|09020316_core31.exe| newdir|09020316|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\09020316|
+DEBUG 20171206 185459:newfile|09020316_DEMGgtif.exe| newdir|09020316|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\09020316|
+DEBUG 20171206 185459:newfile|09020316_giras.exe| newdir|09020316|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\09020316|
+DEBUG 20171206 185459:newfile|09020316_lstoret.exe| newdir|09020316|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\09020316|
+DEBUG 20171206 185459:newfile|09020316_nhd.exe| newdir|09020316|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\09020316|
+DEBUG 20171206 185459:newfile|09030010_core31.exe| newdir|09030010|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\09030010|
+DEBUG 20171206 185459:newfile|09030011_core31.exe| newdir|09030011|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\09030011|
+DEBUG 20171206 185459:newfile|09040001_census.exe| newdir|09040001|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\09040001|
+DEBUG 20171206 185459:newfile|09040001_core31.exe| newdir|09040001|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\09040001|
+DEBUG 20171206 185459:newfile|09040001_DEMGgtif.exe| newdir|09040001|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\09040001|
+DEBUG 20171206 185459:newfile|09040001_giras.exe| newdir|09040001|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\09040001|
+DEBUG 20171206 185459:newfile|09040001_lstoret.exe| newdir|09040001|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\09040001|
+DEBUG 20171206 185459:newfile|09040001_nhd.exe| newdir|09040001|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\09040001|
+DEBUG 20171206 185459:newfile|09040002_census.exe| newdir|09040002|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\09040002|
+DEBUG 20171206 185459:newfile|09040002_core31.exe| newdir|09040002|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\09040002|
+DEBUG 20171206 185459:newfile|09040002_DEMGgtif.exe| newdir|09040002|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\09040002|
+DEBUG 20171206 185459:newfile|09040002_giras.exe| newdir|09040002|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\09040002|
+DEBUG 20171206 185459:newfile|09040002_lstoret.exe| newdir|09040002|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\09040002|
+DEBUG 20171206 185459:newfile|09040002_nhd.exe| newdir|09040002|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\09040002|
+DEBUG 20171206 185459:newfile|13070012_census.exe| newdir|13070012|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\13070012|
+DEBUG 20171206 185459:newfile|13070012_core31.exe| newdir|13070012|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\13070012|
+DEBUG 20171206 185459:newfile|13070012_DEMGgtif.exe| newdir|13070012|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\13070012|
+DEBUG 20171206 185459:newfile|13070012_giras.exe| newdir|13070012|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\13070012|
+DEBUG 20171206 185500:newfile|13070012_lstoret.exe| newdir|13070012|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\13070012|
+DEBUG 20171206 185500:newfile|13070012_nhd.exe| newdir|13070012|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\13070012|
+DEBUG 20171206 185500:newfile|14060010_census.exe| newdir|14060010|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\14060010|
+DEBUG 20171206 185500:newfile|14060010_core31.exe| newdir|14060010|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\14060010|
+DEBUG 20171206 185500:newfile|14060010_DEMGgtif.exe| newdir|14060010|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\14060010|
+DEBUG 20171206 185500:newfile|14060010_giras.exe| newdir|14060010|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\14060010|
+DEBUG 20171206 185500:newfile|14060010_lstoret.exe| newdir|14060010|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\14060010|
+DEBUG 20171206 185500:newfile|14060010_nhd.exe| newdir|14060010|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\14060010|
+DEBUG 20171206 185500:newfile|17010106_census.exe| newdir|17010106|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\17010106|
+DEBUG 20171206 185500:newfile|17010106_core31.exe| newdir|17010106|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\17010106|
+DEBUG 20171206 185500:newfile|17010106_DEMGgtif.exe| newdir|17010106|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\17010106|
+DEBUG 20171206 185500:newfile|17010106_giras.exe| newdir|17010106|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\17010106|
+DEBUG 20171206 185500:newfile|17010106_nhd.exe| newdir|17010106|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\17010106|
+DEBUG 20171206 185500:newfile|18020151_census.exe| newdir|18020151|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18020151|
+DEBUG 20171206 185500:newfile|18020151_core31.exe| newdir|18020151|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18020151|
+DEBUG 20171206 185500:newfile|18020151_DEMGgtif.exe| newdir|18020151|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18020151|
+DEBUG 20171206 185500:newfile|18020151_giras.exe| newdir|18020151|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18020151|
+DEBUG 20171206 185500:newfile|18020151_lstoret.exe| newdir|18020151|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18020151|
+DEBUG 20171206 185500:newfile|18020151_nhd.exe| newdir|18020151|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18020151|
+DEBUG 20171206 185500:newfile|18020152_census.exe| newdir|18020152|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18020152|
+DEBUG 20171206 185500:newfile|18020152_core31.exe| newdir|18020152|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18020152|
+DEBUG 20171206 185500:newfile|18020152_DEMGgtif.exe| newdir|18020152|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18020152|
+DEBUG 20171206 185501:newfile|18020152_giras.exe| newdir|18020152|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18020152|
+DEBUG 20171206 185501:newfile|18020152_lstoret.exe| newdir|18020152|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18020152|
+DEBUG 20171206 185501:newfile|18020152_nhd.exe| newdir|18020152|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18020152|
+DEBUG 20171206 185501:newfile|18020153_census.exe| newdir|18020153|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18020153|
+DEBUG 20171206 185501:newfile|18020153_core31.exe| newdir|18020153|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18020153|
+DEBUG 20171206 185501:newfile|18020153_DEMGgtif.exe| newdir|18020153|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18020153|
+DEBUG 20171206 185501:newfile|18020153_giras.exe| newdir|18020153|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18020153|
+DEBUG 20171206 185501:newfile|18020153_lstoret.exe| newdir|18020153|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18020153|
+DEBUG 20171206 185501:newfile|18020153_nhd.exe| newdir|18020153|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18020153|
+DEBUG 20171206 185501:newfile|18020154_census.exe| newdir|18020154|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18020154|
+DEBUG 20171206 185501:newfile|18020154_core31.exe| newdir|18020154|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18020154|
+DEBUG 20171206 185501:newfile|18020154_DEMGgtif.exe| newdir|18020154|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18020154|
+DEBUG 20171206 185501:newfile|18020154_giras.exe| newdir|18020154|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18020154|
+DEBUG 20171206 185501:newfile|18020154_lstoret.exe| newdir|18020154|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18020154|
+DEBUG 20171206 185501:newfile|18020154_nhd.exe| newdir|18020154|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18020154|
+DEBUG 20171206 185501:newfile|18020155_census.exe| newdir|18020155|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18020155|
+DEBUG 20171206 185501:newfile|18020155_core31.exe| newdir|18020155|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18020155|
+DEBUG 20171206 185501:newfile|18020155_DEMGgtif.exe| newdir|18020155|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18020155|
+DEBUG 20171206 185501:newfile|18020155_giras.exe| newdir|18020155|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18020155|
+DEBUG 20171206 185501:newfile|18020155_lstoret.exe| newdir|18020155|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18020155|
+DEBUG 20171206 185501:newfile|18020155_nhd.exe| newdir|18020155|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18020155|
+DEBUG 20171206 185501:newfile|18020156_census.exe| newdir|18020156|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18020156|
+DEBUG 20171206 185501:newfile|18020156_core31.exe| newdir|18020156|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18020156|
+DEBUG 20171206 185501:newfile|18020156_DEMGgtif.exe| newdir|18020156|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18020156|
+DEBUG 20171206 185501:newfile|18020156_giras.exe| newdir|18020156|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18020156|
+DEBUG 20171206 185501:newfile|18020156_lstoret.exe| newdir|18020156|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18020156|
+DEBUG 20171206 185501:newfile|18020156_nhd.exe| newdir|18020156|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18020156|
+DEBUG 20171206 185501:newfile|18020157_census.exe| newdir|18020157|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18020157|
+DEBUG 20171206 185501:newfile|18020157_core31.exe| newdir|18020157|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18020157|
+DEBUG 20171206 185501:newfile|18020157_DEMGgtif.exe| newdir|18020157|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18020157|
+DEBUG 20171206 185502:newfile|18020157_giras.exe| newdir|18020157|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18020157|
+DEBUG 20171206 185502:newfile|18020157_lstoret.exe| newdir|18020157|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18020157|
+DEBUG 20171206 185502:newfile|18020157_nhd.exe| newdir|18020157|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18020157|
+DEBUG 20171206 185502:newfile|18020158_census.exe| newdir|18020158|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18020158|
+DEBUG 20171206 185502:newfile|18020158_core31.exe| newdir|18020158|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18020158|
+DEBUG 20171206 185502:newfile|18020158_DEMGgtif.exe| newdir|18020158|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18020158|
+DEBUG 20171206 185502:newfile|18020158_giras.exe| newdir|18020158|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18020158|
+DEBUG 20171206 185502:newfile|18020158_lstoret.exe| newdir|18020158|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18020158|
+DEBUG 20171206 185502:newfile|18020158_nhd.exe| newdir|18020158|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18020158|
+DEBUG 20171206 185502:newfile|18020159_census.exe| newdir|18020159|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18020159|
+DEBUG 20171206 185502:newfile|18020159_core31.exe| newdir|18020159|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18020159|
+DEBUG 20171206 185502:newfile|18020159_DEMGgtif.exe| newdir|18020159|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18020159|
+DEBUG 20171206 185502:newfile|18020159_giras.exe| newdir|18020159|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18020159|
+DEBUG 20171206 185502:newfile|18020159_lstoret.exe| newdir|18020159|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18020159|
+DEBUG 20171206 185502:newfile|18020159_nhd.exe| newdir|18020159|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18020159|
+DEBUG 20171206 185502:newfile|18020161_census.exe| newdir|18020161|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18020161|
+DEBUG 20171206 185502:newfile|18020161_core31.exe| newdir|18020161|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18020161|
+DEBUG 20171206 185502:newfile|18020161_DEMGgtif.exe| newdir|18020161|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18020161|
+DEBUG 20171206 185502:newfile|18020161_giras.exe| newdir|18020161|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18020161|
+DEBUG 20171206 185502:newfile|18020161_lstoret.exe| newdir|18020161|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18020161|
+DEBUG 20171206 185502:newfile|18020161_nhd.exe| newdir|18020161|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18020161|
+DEBUG 20171206 185502:newfile|18020162_census.exe| newdir|18020162|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18020162|
+DEBUG 20171206 185502:newfile|18020162_core31.exe| newdir|18020162|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18020162|
+DEBUG 20171206 185502:newfile|18020162_DEMGgtif.exe| newdir|18020162|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18020162|
+DEBUG 20171206 185503:newfile|18020162_giras.exe| newdir|18020162|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18020162|
+DEBUG 20171206 185503:newfile|18020162_lstoret.exe| newdir|18020162|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18020162|
+DEBUG 20171206 185503:newfile|18020162_nhd.exe| newdir|18020162|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18020162|
+DEBUG 20171206 185503:newfile|18020163_census.exe| newdir|18020163|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18020163|
+DEBUG 20171206 185503:newfile|18020163_core31.exe| newdir|18020163|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18020163|
+DEBUG 20171206 185503:newfile|18020163_DEMGgtif.exe| newdir|18020163|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18020163|
+DEBUG 20171206 185503:newfile|18020163_giras.exe| newdir|18020163|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18020163|
+DEBUG 20171206 185503:newfile|18020163_lstoret.exe| newdir|18020163|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18020163|
+DEBUG 20171206 185503:newfile|18020163_nhd.exe| newdir|18020163|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18020163|
+DEBUG 20171206 185503:newfile|18040051_census.exe| newdir|18040051|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18040051|
+DEBUG 20171206 185503:newfile|18040051_core31.exe| newdir|18040051|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18040051|
+DEBUG 20171206 185503:newfile|18040051_DEMGgtif.exe| newdir|18040051|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18040051|
+DEBUG 20171206 185503:newfile|18040051_giras.exe| newdir|18040051|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18040051|
+DEBUG 20171206 185503:newfile|18040051_lstoret.exe| newdir|18040051|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18040051|
+DEBUG 20171206 185503:newfile|18040051_nhd.exe| newdir|18040051|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18040051|
+DEBUG 20171206 185503:newfile|18060015_census.exe| newdir|18060015|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18060015|
+DEBUG 20171206 185503:newfile|18060015_core31.exe| newdir|18060015|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18060015|
+DEBUG 20171206 185503:newfile|18060015_DEMGgtif.exe| newdir|18060015|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18060015|
+DEBUG 20171206 185503:newfile|18060015_giras.exe| newdir|18060015|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18060015|
+DEBUG 20171206 185503:newfile|18060015_lstoret.exe| newdir|18060015|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18060015|
+DEBUG 20171206 185503:newfile|18060015_nhd.exe| newdir|18060015|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18060015|
+DEBUG 20171206 185503:newfile|18100201_census.exe| newdir|18100201|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18100201|
+DEBUG 20171206 185503:newfile|18100201_core31.exe| newdir|18100201|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18100201|
+DEBUG 20171206 185503:newfile|18100201_DEMGgtif.exe| newdir|18100201|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18100201|
+DEBUG 20171206 185503:newfile|18100201_giras.exe| newdir|18100201|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18100201|
+DEBUG 20171206 185503:newfile|18100201_lstoret.exe| newdir|18100201|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18100201|
+DEBUG 20171206 185503:newfile|18100201_nhd.exe| newdir|18100201|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18100201|
+DEBUG 20171206 185504:newfile|18100202_census.exe| newdir|18100202|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18100202|
+DEBUG 20171206 185504:newfile|18100202_core31.exe| newdir|18100202|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18100202|
+DEBUG 20171206 185504:newfile|18100202_DEMGgtif.exe| newdir|18100202|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18100202|
+DEBUG 20171206 185504:newfile|18100202_giras.exe| newdir|18100202|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18100202|
+DEBUG 20171206 185504:newfile|18100202_lstoret.exe| newdir|18100202|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18100202|
+DEBUG 20171206 185504:newfile|18100202_nhd.exe| newdir|18100202|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18100202|
+DEBUG 20171206 185504:newfile|18100203_census.exe| newdir|18100203|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18100203|
+DEBUG 20171206 185504:newfile|18100203_core31.exe| newdir|18100203|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18100203|
+DEBUG 20171206 185504:newfile|18100203_DEMGgtif.exe| newdir|18100203|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18100203|
+DEBUG 20171206 185504:newfile|18100203_giras.exe| newdir|18100203|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18100203|
+DEBUG 20171206 185504:newfile|18100203_lstoret.exe| newdir|18100203|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18100203|
+DEBUG 20171206 185504:newfile|18100203_nhd.exe| newdir|18100203|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18100203|
+DEBUG 20171206 185504:newfile|18100204_census.exe| newdir|18100204|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18100204|
+DEBUG 20171206 185504:newfile|18100204_core31.exe| newdir|18100204|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18100204|
+DEBUG 20171206 185504:newfile|18100204_DEMGgtif.exe| newdir|18100204|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18100204|
+DEBUG 20171206 185504:newfile|18100204_giras.exe| newdir|18100204|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18100204|
+DEBUG 20171206 185504:newfile|18100204_lstoret.exe| newdir|18100204|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18100204|
+DEBUG 20171206 185504:newfile|18100204_nhd.exe| newdir|18100204|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\18100204|
+DEBUG 20171206 185504:newfile|19010104_census.exe| newdir|19010104|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19010104|
+DEBUG 20171206 185504:newfile|19010104_core31.exe| newdir|19010104|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19010104|
+DEBUG 20171206 185504:newfile|19010104_nhd.exe| newdir|19010104|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19010104|
+DEBUG 20171206 185504:newfile|19010105_census.exe| newdir|19010105|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19010105|
+DEBUG 20171206 185504:newfile|19010105_core31.exe| newdir|19010105|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19010105|
+DEBUG 20171206 185504:newfile|19010105_nhd.exe| newdir|19010105|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19010105|
+DEBUG 20171206 185504:newfile|19010106_census.exe| newdir|19010106|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19010106|
+DEBUG 20171206 185504:newfile|19010106_core31.exe| newdir|19010106|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19010106|
+DEBUG 20171206 185504:newfile|19010106_nhd.exe| newdir|19010106|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19010106|
+DEBUG 20171206 185504:newfile|19010107_census.exe| newdir|19010107|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19010107|
+DEBUG 20171206 185504:newfile|19010107_core31.exe| newdir|19010107|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19010107|
+DEBUG 20171206 185504:newfile|19010107_nhd.exe| newdir|19010107|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19010107|
+DEBUG 20171206 185504:newfile|19010205_census.exe| newdir|19010205|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19010205|
+DEBUG 20171206 185504:newfile|19010205_core31.exe| newdir|19010205|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19010205|
+DEBUG 20171206 185504:newfile|19010205_nhd.exe| newdir|19010205|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19010205|
+DEBUG 20171206 185504:newfile|19010206_census.exe| newdir|19010206|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19010206|
+DEBUG 20171206 185504:newfile|19010206_core31.exe| newdir|19010206|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19010206|
+DEBUG 20171206 185504:newfile|19010206_nhd.exe| newdir|19010206|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19010206|
+DEBUG 20171206 185504:newfile|19010207_census.exe| newdir|19010207|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19010207|
+DEBUG 20171206 185505:newfile|19010207_core31.exe| newdir|19010207|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19010207|
+DEBUG 20171206 185505:newfile|19010207_nhd.exe| newdir|19010207|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19010207|
+DEBUG 20171206 185505:newfile|19010208_census.exe| newdir|19010208|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19010208|
+DEBUG 20171206 185505:newfile|19010208_core31.exe| newdir|19010208|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19010208|
+DEBUG 20171206 185505:newfile|19010208_nhd.exe| newdir|19010208|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19010208|
+DEBUG 20171206 185505:newfile|19010209_census.exe| newdir|19010209|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19010209|
+DEBUG 20171206 185505:newfile|19010209_core31.exe| newdir|19010209|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19010209|
+DEBUG 20171206 185505:newfile|19010210_census.exe| newdir|19010210|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19010210|
+DEBUG 20171206 185505:newfile|19010210_core31.exe| newdir|19010210|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19010210|
+DEBUG 20171206 185505:newfile|19010211_census.exe| newdir|19010211|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19010211|
+DEBUG 20171206 185505:newfile|19010211_core31.exe| newdir|19010211|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19010211|
+DEBUG 20171206 185505:newfile|19010212_census.exe| newdir|19010212|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19010212|
+DEBUG 20171206 185505:newfile|19010212_core31.exe| newdir|19010212|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19010212|
+DEBUG 20171206 185505:newfile|19010212_lstoret.exe| newdir|19010212|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19010212|
+DEBUG 20171206 185505:newfile|19010304_census.exe| newdir|19010304|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19010304|
+DEBUG 20171206 185505:newfile|19010304_core31.exe| newdir|19010304|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19010304|
+DEBUG 20171206 185505:newfile|19010304_nhd.exe| newdir|19010304|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19010304|
+DEBUG 20171206 185505:newfile|19010403_census.exe| newdir|19010403|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19010403|
+DEBUG 20171206 185505:newfile|19010403_core31.exe| newdir|19010403|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19010403|
+DEBUG 20171206 185505:newfile|19010404_census.exe| newdir|19010404|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19010404|
+DEBUG 20171206 185505:newfile|19010404_core31.exe| newdir|19010404|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19010404|
+DEBUG 20171206 185505:newfile|19010404_nhd.exe| newdir|19010404|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19010404|
+DEBUG 20171206 185505:newfile|19010405_census.exe| newdir|19010405|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19010405|
+DEBUG 20171206 185505:newfile|19010405_core31.exe| newdir|19010405|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19010405|
+DEBUG 20171206 185505:newfile|19010405_lstoret.exe| newdir|19010405|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19010405|
+DEBUG 20171206 185505:newfile|19010405_nhd.exe| newdir|19010405|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19010405|
+DEBUG 20171206 185505:newfile|19010406_census.exe| newdir|19010406|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19010406|
+DEBUG 20171206 185505:newfile|19010406_core31.exe| newdir|19010406|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19010406|
+DEBUG 20171206 185505:newfile|19010406_nhd.exe| newdir|19010406|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19010406|
+DEBUG 20171206 185505:newfile|19010500_census.exe| newdir|19010500|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19010500|
+DEBUG 20171206 185505:newfile|19010500_core31.exe| newdir|19010500|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19010500|
+DEBUG 20171206 185505:newfile|19020203_census.exe| newdir|19020203|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19020203|
+DEBUG 20171206 185505:newfile|19020203_core31.exe| newdir|19020203|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19020203|
+DEBUG 20171206 185505:newfile|19020203_nhd.exe| newdir|19020203|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19020203|
+DEBUG 20171206 185505:newfile|19020800_census.exe| newdir|19020800|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19020800|
+DEBUG 20171206 185505:newfile|19020800_core31.exe| newdir|19020800|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19020800|
+DEBUG 20171206 185505:newfile|19020800_lstoret.exe| newdir|19020800|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19020800|
+DEBUG 20171206 185505:newfile|19020800_nhd.exe| newdir|19020800|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19020800|
+DEBUG 20171206 185505:newfile|19030306_census.exe| newdir|19030306|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19030306|
+DEBUG 20171206 185505:newfile|19030306_core31.exe| newdir|19030306|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19030306|
+DEBUG 20171206 185505:newfile|19030306_nhd.exe| newdir|19030306|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19030306|
+DEBUG 20171206 185505:newfile|19030406_census.exe| newdir|19030406|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19030406|
+DEBUG 20171206 185505:newfile|19030406_core31.exe| newdir|19030406|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19030406|
+DEBUG 20171206 185505:newfile|19030406_nhd.exe| newdir|19030406|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19030406|
+DEBUG 20171206 185505:newfile|19030407_census.exe| newdir|19030407|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19030407|
+DEBUG 20171206 185506:newfile|19030407_core31.exe| newdir|19030407|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19030407|
+DEBUG 20171206 185506:newfile|19030407_nhd.exe| newdir|19030407|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19030407|
+DEBUG 20171206 185506:newfile|19050500_census.exe| newdir|19050500|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19050500|
+DEBUG 20171206 185506:newfile|19050500_core31.exe| newdir|19050500|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19050500|
+DEBUG 20171206 185506:newfile|19060206_census.exe| newdir|19060206|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19060206|
+DEBUG 20171206 185506:newfile|19060206_core31.exe| newdir|19060206|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19060206|
+DEBUG 20171206 185506:newfile|19060206_nhd.exe| newdir|19060206|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19060206|
+DEBUG 20171206 185506:newfile|19070101_census.exe| newdir|19070101|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19070101|
+DEBUG 20171206 185506:newfile|19070101_core31.exe| newdir|19070101|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19070101|
+DEBUG 20171206 185506:newfile|19070102_census.exe| newdir|19070102|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19070102|
+DEBUG 20171206 185506:newfile|19070102_core31.exe| newdir|19070102|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19070102|
+DEBUG 20171206 185506:newfile|19070103_census.exe| newdir|19070103|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19070103|
+DEBUG 20171206 185506:newfile|19070103_core31.exe| newdir|19070103|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19070103|
+DEBUG 20171206 185506:newfile|19070104_census.exe| newdir|19070104|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19070104|
+DEBUG 20171206 185506:newfile|19070104_core31.exe| newdir|19070104|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19070104|
+DEBUG 20171206 185506:newfile|19070402_census.exe| newdir|19070402|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19070402|
+DEBUG 20171206 185506:newfile|19070402_core31.exe| newdir|19070402|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19070402|
+DEBUG 20171206 185506:newfile|19070402_lstoret.exe| newdir|19070402|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19070402|
+DEBUG 20171206 185506:newfile|19070402_nhd.exe| newdir|19070402|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19070402|
+DEBUG 20171206 185506:newfile|19070403_census.exe| newdir|19070403|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19070403|
+DEBUG 20171206 185506:newfile|19070403_core31.exe| newdir|19070403|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19070403|
+DEBUG 20171206 185506:newfile|19070403_nhd.exe| newdir|19070403|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19070403|
+DEBUG 20171206 185506:newfile|19070502_census.exe| newdir|19070502|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19070502|
+DEBUG 20171206 185506:newfile|19070502_core31.exe| newdir|19070502|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19070502|
+DEBUG 20171206 185506:newfile|19070502_nhd.exe| newdir|19070502|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19070502|
+DEBUG 20171206 185506:newfile|19070503_census.exe| newdir|19070503|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19070503|
+DEBUG 20171206 185506:newfile|19070503_core31.exe| newdir|19070503|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19070503|
+DEBUG 20171206 185506:newfile|19070503_nhd.exe| newdir|19070503|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19070503|
+DEBUG 20171206 185506:newfile|19070505_census.exe| newdir|19070505|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19070505|
+DEBUG 20171206 185506:newfile|19070505_core31.exe| newdir|19070505|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19070505|
+DEBUG 20171206 185506:newfile|19070505_nhd.exe| newdir|19070505|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19070505|
+DEBUG 20171206 185506:newfile|19070506_census.exe| newdir|19070506|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19070506|
+DEBUG 20171206 185506:newfile|19070506_core31.exe| newdir|19070506|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19070506|
+DEBUG 20171206 185506:newfile|19070506_nhd.exe| newdir|19070506|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19070506|
+DEBUG 20171206 185506:newfile|19080103_census.exe| newdir|19080103|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19080103|
+DEBUG 20171206 185506:newfile|19080103_core31.exe| newdir|19080103|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19080103|
+DEBUG 20171206 185506:newfile|19080103_nhd.exe| newdir|19080103|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19080103|
+DEBUG 20171206 185506:newfile|19080104_census.exe| newdir|19080104|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19080104|
+DEBUG 20171206 185506:newfile|19080104_core31.exe| newdir|19080104|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19080104|
+DEBUG 20171206 185506:newfile|19080104_nhd.exe| newdir|19080104|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19080104|
+DEBUG 20171206 185506:newfile|19080105_census.exe| newdir|19080105|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19080105|
+DEBUG 20171206 185506:newfile|19080105_core31.exe| newdir|19080105|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19080105|
+DEBUG 20171206 185506:newfile|19080105_nhd.exe| newdir|19080105|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19080105|
+DEBUG 20171206 185507:newfile|19080106_census.exe| newdir|19080106|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19080106|
+DEBUG 20171206 185507:newfile|19080106_core31.exe| newdir|19080106|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19080106|
+DEBUG 20171206 185507:newfile|19080106_nhd.exe| newdir|19080106|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19080106|
+DEBUG 20171206 185507:newfile|19080107_census.exe| newdir|19080107|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19080107|
+DEBUG 20171206 185507:newfile|19080107_core31.exe| newdir|19080107|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19080107|
+DEBUG 20171206 185507:newfile|19080107_nhd.exe| newdir|19080107|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19080107|
+DEBUG 20171206 185507:newfile|19080108_census.exe| newdir|19080108|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19080108|
+DEBUG 20171206 185507:newfile|19080108_core31.exe| newdir|19080108|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19080108|
+DEBUG 20171206 185507:newfile|19080108_nhd.exe| newdir|19080108|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19080108|
+DEBUG 20171206 185507:newfile|19080201_census.exe| newdir|19080201|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19080201|
+DEBUG 20171206 185507:newfile|19080201_core31.exe| newdir|19080201|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19080201|
+DEBUG 20171206 185507:newfile|19080201_nhd.exe| newdir|19080201|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19080201|
+DEBUG 20171206 185507:newfile|19080202_census.exe| newdir|19080202|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19080202|
+DEBUG 20171206 185507:newfile|19080202_core31.exe| newdir|19080202|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19080202|
+DEBUG 20171206 185507:newfile|19080202_nhd.exe| newdir|19080202|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19080202|
+DEBUG 20171206 185507:newfile|19080203_census.exe| newdir|19080203|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19080203|
+DEBUG 20171206 185507:newfile|19080203_core31.exe| newdir|19080203|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19080203|
+DEBUG 20171206 185507:newfile|19080203_nhd.exe| newdir|19080203|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19080203|
+DEBUG 20171206 185507:newfile|19080204_census.exe| newdir|19080204|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19080204|
+DEBUG 20171206 185507:newfile|19080204_core31.exe| newdir|19080204|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19080204|
+DEBUG 20171206 185507:newfile|19080204_nhd.exe| newdir|19080204|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19080204|
+DEBUG 20171206 185507:newfile|19080301_census.exe| newdir|19080301|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19080301|
+DEBUG 20171206 185507:newfile|19080301_core31.exe| newdir|19080301|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19080301|
+DEBUG 20171206 185507:newfile|19080301_lstoret.exe| newdir|19080301|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19080301|
+DEBUG 20171206 185507:newfile|19080301_nhd.exe| newdir|19080301|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19080301|
+DEBUG 20171206 185507:newfile|19080302_census.exe| newdir|19080302|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19080302|
+DEBUG 20171206 185507:newfile|19080302_core31.exe| newdir|19080302|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19080302|
+DEBUG 20171206 185507:newfile|19080302_lstoret.exe| newdir|19080302|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19080302|
+DEBUG 20171206 185507:newfile|19080302_nhd.exe| newdir|19080302|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19080302|
+DEBUG 20171206 185507:newfile|19080303_census.exe| newdir|19080303|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19080303|
+DEBUG 20171206 185507:newfile|19080303_core31.exe| newdir|19080303|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19080303|
+DEBUG 20171206 185507:newfile|19080303_nhd.exe| newdir|19080303|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19080303|
+DEBUG 20171206 185507:newfile|19080304_census.exe| newdir|19080304|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19080304|
+DEBUG 20171206 185507:newfile|19080304_core31.exe| newdir|19080304|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19080304|
+DEBUG 20171206 185507:newfile|19080304_nhd.exe| newdir|19080304|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19080304|
+DEBUG 20171206 185507:newfile|19080305_census.exe| newdir|19080305|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19080305|
+DEBUG 20171206 185508:newfile|19080305_core31.exe| newdir|19080305|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19080305|
+DEBUG 20171206 185508:newfile|19080305_nhd.exe| newdir|19080305|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19080305|
+DEBUG 20171206 185508:newfile|19080306_census.exe| newdir|19080306|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19080306|
+DEBUG 20171206 185508:newfile|19080306_core31.exe| newdir|19080306|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19080306|
+DEBUG 20171206 185508:newfile|19080306_nhd.exe| newdir|19080306|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19080306|
+DEBUG 20171206 185508:newfile|19080307_census.exe| newdir|19080307|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19080307|
+DEBUG 20171206 185508:newfile|19080307_core31.exe| newdir|19080307|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19080307|
+DEBUG 20171206 185508:newfile|19080307_nhd.exe| newdir|19080307|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19080307|
+DEBUG 20171206 185508:newfile|19080308_census.exe| newdir|19080308|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19080308|
+DEBUG 20171206 185508:newfile|19080308_core31.exe| newdir|19080308|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19080308|
+DEBUG 20171206 185508:newfile|19080308_nhd.exe| newdir|19080308|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19080308|
+DEBUG 20171206 185508:newfile|19080309_census.exe| newdir|19080309|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19080309|
+DEBUG 20171206 185508:newfile|19080309_core31.exe| newdir|19080309|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19080309|
+DEBUG 20171206 185508:newfile|19080309_nhd.exe| newdir|19080309|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19080309|
+DEBUG 20171206 185508:newfile|19080310_census.exe| newdir|19080310|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19080310|
+DEBUG 20171206 185508:newfile|19080310_core31.exe| newdir|19080310|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19080310|
+DEBUG 20171206 185508:newfile|19080310_nhd.exe| newdir|19080310|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19080310|
+DEBUG 20171206 185508:newfile|19080311_census.exe| newdir|19080311|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19080311|
+DEBUG 20171206 185508:newfile|19080311_core31.exe| newdir|19080311|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19080311|
+DEBUG 20171206 185508:newfile|19080311_nhd.exe| newdir|19080311|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19080311|
+DEBUG 20171206 185508:newfile|19080401_census.exe| newdir|19080401|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19080401|
+DEBUG 20171206 185508:newfile|19080401_core31.exe| newdir|19080401|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19080401|
+DEBUG 20171206 185508:newfile|19080401_nhd.exe| newdir|19080401|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19080401|
+DEBUG 20171206 185508:newfile|19080402_census.exe| newdir|19080402|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19080402|
+DEBUG 20171206 185508:newfile|19080402_core31.exe| newdir|19080402|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19080402|
+DEBUG 20171206 185508:newfile|19080402_nhd.exe| newdir|19080402|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19080402|
+DEBUG 20171206 185508:newfile|19080403_census.exe| newdir|19080403|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19080403|
+DEBUG 20171206 185508:newfile|19080403_core31.exe| newdir|19080403|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19080403|
+DEBUG 20171206 185508:newfile|19080403_nhd.exe| newdir|19080403|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19080403|
+DEBUG 20171206 185508:newfile|19080404_census.exe| newdir|19080404|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19080404|
+DEBUG 20171206 185508:newfile|19080404_core31.exe| newdir|19080404|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19080404|
+DEBUG 20171206 185508:newfile|19080404_nhd.exe| newdir|19080404|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19080404|
+DEBUG 20171206 185508:newfile|19090101_census.exe| newdir|19090101|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19090101|
+DEBUG 20171206 185508:newfile|19090101_core31.exe| newdir|19090101|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19090101|
+DEBUG 20171206 185508:newfile|19090101_nhd.exe| newdir|19090101|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19090101|
+DEBUG 20171206 185508:newfile|19090102_census.exe| newdir|19090102|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19090102|
+DEBUG 20171206 185508:newfile|19090102_core31.exe| newdir|19090102|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19090102|
+DEBUG 20171206 185509:newfile|19090102_nhd.exe| newdir|19090102|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19090102|
+DEBUG 20171206 185509:newfile|19090103_census.exe| newdir|19090103|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19090103|
+DEBUG 20171206 185509:newfile|19090103_core31.exe| newdir|19090103|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19090103|
+DEBUG 20171206 185509:newfile|19090103_nhd.exe| newdir|19090103|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19090103|
+DEBUG 20171206 185509:newfile|19090104_census.exe| newdir|19090104|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19090104|
+DEBUG 20171206 185509:newfile|19090104_core31.exe| newdir|19090104|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19090104|
+DEBUG 20171206 185509:newfile|19090104_nhd.exe| newdir|19090104|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19090104|
+DEBUG 20171206 185509:newfile|19090105_census.exe| newdir|19090105|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19090105|
+DEBUG 20171206 185509:newfile|19090105_core31.exe| newdir|19090105|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19090105|
+DEBUG 20171206 185509:newfile|19090105_nhd.exe| newdir|19090105|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19090105|
+DEBUG 20171206 185509:newfile|19090106_census.exe| newdir|19090106|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19090106|
+DEBUG 20171206 185509:newfile|19090106_core31.exe| newdir|19090106|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19090106|
+DEBUG 20171206 185509:newfile|19090106_nhd.exe| newdir|19090106|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19090106|
+DEBUG 20171206 185509:newfile|19090107_census.exe| newdir|19090107|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19090107|
+DEBUG 20171206 185509:newfile|19090107_core31.exe| newdir|19090107|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19090107|
+DEBUG 20171206 185509:newfile|19090107_nhd.exe| newdir|19090107|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19090107|
+DEBUG 20171206 185509:newfile|19090108_census.exe| newdir|19090108|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19090108|
+DEBUG 20171206 185509:newfile|19090108_core31.exe| newdir|19090108|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19090108|
+DEBUG 20171206 185509:newfile|19090108_nhd.exe| newdir|19090108|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19090108|
+DEBUG 20171206 185509:newfile|19090109_census.exe| newdir|19090109|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19090109|
+DEBUG 20171206 185509:newfile|19090109_core31.exe| newdir|19090109|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19090109|
+DEBUG 20171206 185509:newfile|19090109_nhd.exe| newdir|19090109|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19090109|
+DEBUG 20171206 185509:newfile|19090201_census.exe| newdir|19090201|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19090201|
+DEBUG 20171206 185509:newfile|19090201_core31.exe| newdir|19090201|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19090201|
+DEBUG 20171206 185509:newfile|19090201_nhd.exe| newdir|19090201|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19090201|
+DEBUG 20171206 185509:newfile|19090202_census.exe| newdir|19090202|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19090202|
+DEBUG 20171206 185509:newfile|19090202_core31.exe| newdir|19090202|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19090202|
+DEBUG 20171206 185509:newfile|19090202_nhd.exe| newdir|19090202|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19090202|
+DEBUG 20171206 185509:newfile|19090203_census.exe| newdir|19090203|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19090203|
+DEBUG 20171206 185509:newfile|19090203_core31.exe| newdir|19090203|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19090203|
+DEBUG 20171206 185509:newfile|19090203_nhd.exe| newdir|19090203|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19090203|
+DEBUG 20171206 185509:newfile|19090204_census.exe| newdir|19090204|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19090204|
+DEBUG 20171206 185509:newfile|19090204_core31.exe| newdir|19090204|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19090204|
+DEBUG 20171206 185509:newfile|19090204_nhd.exe| newdir|19090204|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19090204|
+DEBUG 20171206 185509:newfile|19090205_census.exe| newdir|19090205|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19090205|
+DEBUG 20171206 185509:newfile|19090205_core31.exe| newdir|19090205|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19090205|
+DEBUG 20171206 185509:newfile|19090205_nhd.exe| newdir|19090205|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19090205|
+DEBUG 20171206 185509:newfile|19090301_census.exe| newdir|19090301|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19090301|
+DEBUG 20171206 185509:newfile|19090301_core31.exe| newdir|19090301|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19090301|
+DEBUG 20171206 185509:newfile|19090301_nhd.exe| newdir|19090301|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19090301|
+DEBUG 20171206 185509:newfile|19090302_census.exe| newdir|19090302|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19090302|
+DEBUG 20171206 185510:newfile|19090302_core31.exe| newdir|19090302|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19090302|
+DEBUG 20171206 185510:newfile|19090302_nhd.exe| newdir|19090302|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19090302|
+DEBUG 20171206 185510:newfile|19090303_census.exe| newdir|19090303|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19090303|
+DEBUG 20171206 185510:newfile|19090303_core31.exe| newdir|19090303|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19090303|
+DEBUG 20171206 185510:newfile|19090303_nhd.exe| newdir|19090303|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19090303|
+DEBUG 20171206 185510:newfile|19090304_census.exe| newdir|19090304|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19090304|
+DEBUG 20171206 185510:newfile|19090304_core31.exe| newdir|19090304|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19090304|
+DEBUG 20171206 185510:newfile|19090304_nhd.exe| newdir|19090304|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19090304|
+DEBUG 20171206 185510:newfile|19090305_census.exe| newdir|19090305|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19090305|
+DEBUG 20171206 185510:newfile|19090305_core31.exe| newdir|19090305|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19090305|
+DEBUG 20171206 185510:newfile|19090305_nhd.exe| newdir|19090305|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\19090305|
+DEBUG 20171206 185510:newfile|22010000_core31.exe| newdir|22010000|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\22010000|
+DEBUG 20171206 185510:newfile|22020000_core31.exe| newdir|22020000|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\22020000|
+DEBUG 20171206 185510:newfile|22030000_core31.exe| newdir|22030000|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\22030000|
+INFO 20171206 185510:close_down:
+INFO 20171206 185510:17 seconds  597 files
+INFO 20171206 185510:End of createdirsfromfiles
+

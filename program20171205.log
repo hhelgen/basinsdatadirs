@@ -1,0 +1,98 @@
+INFO 20171205 131534:
+Start of createdirsfromfiles
+INFO 20171205 131534:main: 
+INFO 20171205 131534:startup:
+DEBUG 20171205 131534:new   |C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\NewBASINSCore|
+DEBUG 20171205 131534:old   |C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\OldBASINSCore|
+DEBUG 20171205 131534:target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata|
+DEBUG 20171205 131534:newfilelist
+DEBUG 20171205 131534:newfile|01010006_census.exe| newdir|01010006|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\01010006|
+DEBUG 20171205 131534:newfile|01010006_core31.exe| newdir|01010006|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\01010006|
+DEBUG 20171205 131534:newfile|01010006_DEMGgtif.exe| newdir|01010006|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\01010006|
+DEBUG 20171205 131534:newfile|01010006_giras.exe| newdir|01010006|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\01010006|
+DEBUG 20171205 131535:newfile|01010006_lstoret.exe| newdir|01010006|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\01010006|
+DEBUG 20171205 131535:newfile|01010006_nhd.exe| newdir|01010006|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\01010006|
+DEBUG 20171205 131535:newfile|01010007_census.exe| newdir|01010007|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\01010007|
+DEBUG 20171205 131535:newfile|01010007_core31.exe| newdir|01010007|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\01010007|
+DEBUG 20171205 131535:newfile|01010007_DEMGgtif.exe| newdir|01010007|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\01010007|
+DEBUG 20171205 131535:newfile|01010007_giras.exe| newdir|01010007|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\01010007|
+DEBUG 20171205 131535:newfile|01010007_lstoret.exe| newdir|01010007|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\01010007|
+DEBUG 20171205 131535:newfile|01010007_nhd.exe| newdir|01010007|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\01010007|
+DEBUG 20171205 131535:newfile|01070006_census.exe| newdir|01070006|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\01070006|
+DEBUG 20171205 131535:newfile|01070006_core31.exe| newdir|01070006|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\01070006|
+DEBUG 20171205 131535:newfile|01070006_DEMGgtif.exe| newdir|01070006|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\01070006|
+DEBUG 20171205 131535:newfile|01070006_giras.exe| newdir|01070006|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\01070006|
+DEBUG 20171205 131535:newfile|01070006_lstoret.exe| newdir|01070006|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\01070006|
+DEBUG 20171205 131535:newfile|01070006_nhd.exe| newdir|01070006|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\01070006|
+INFO 20171205 131535:close_down:
+INFO 20171205 131535:0 seconds  18 files
+INFO 20171205 131535:
+End of createdirsfromfiles
+
+INFO 20171205 132640:
+Start of createdirsfromfiles
+INFO 20171205 132640:main: 
+INFO 20171205 132640:startup:
+DEBUG 20171205 132640:new   |C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\NewBASINSCore|
+DEBUG 20171205 132640:old   |C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\OldBASINSCore|
+DEBUG 20171205 132640:target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata|
+DEBUG 20171205 132640:newfilelist
+DEBUG 20171205 132640:newfile|01010006_census.exe| newdir|01010006|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\01010006|
+DEBUG 20171205 132640:newfile|01010006_core31.exe| newdir|01010006|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\01010006|
+DEBUG 20171205 132640:newfile|01010006_DEMGgtif.exe| newdir|01010006|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\01010006|
+DEBUG 20171205 132640:newfile|01010006_giras.exe| newdir|01010006|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\01010006|
+DEBUG 20171205 132640:newfile|01010006_lstoret.exe| newdir|01010006|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\01010006|
+DEBUG 20171205 132640:newfile|01010006_nhd.exe| newdir|01010006|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\01010006|
+DEBUG 20171205 132640:newfile|01010007_census.exe| newdir|01010007|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\01010007|
+DEBUG 20171205 132640:newfile|01010007_core31.exe| newdir|01010007|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\01010007|
+DEBUG 20171205 132640:newfile|01010007_DEMGgtif.exe| newdir|01010007|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\01010007|
+DEBUG 20171205 132640:newfile|01010007_giras.exe| newdir|01010007|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\01010007|
+DEBUG 20171205 132640:newfile|01010007_lstoret.exe| newdir|01010007|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\01010007|
+DEBUG 20171205 132640:newfile|01010007_nhd.exe| newdir|01010007|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\01010007|
+DEBUG 20171205 132640:newfile|01070006_census.exe| newdir|01070006|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\01070006|
+DEBUG 20171205 132640:newfile|01070006_core31.exe| newdir|01070006|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\01070006|
+DEBUG 20171205 132640:newfile|01070006_DEMGgtif.exe| newdir|01070006|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\01070006|
+DEBUG 20171205 132640:newfile|01070006_giras.exe| newdir|01070006|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\01070006|
+DEBUG 20171205 132640:newfile|01070006_lstoret.exe| newdir|01070006|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\01070006|
+DEBUG 20171205 132640:newfile|01070006_nhd.exe| newdir|01070006|
+target|C:\h\2-04CEAM\basins\FinalDeliverablesFromRESPEC\basinsdata\01070006|
+INFO 20171205 132640:close_down:
+INFO 20171205 132640:0 seconds  18 files
+INFO 20171205 132640:
+End of createdirsfromfiles
+
